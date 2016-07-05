@@ -1,0 +1,13 @@
+﻿{
+    "ID":"6dff58c3-6fbe-4aeb-b3e4-fbc5eae3c0fa",
+    "ActionKeyword":"/our",
+    "Name":"Our Umbraco",
+    "Description":"Search our.umbraco.org",
+    "Author":"skttl",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"https://github.com/skttl/Wox.Plugin.Our.Umbraco",
+    "ExecuteFileName":"Wox.Plugin.Our.Umbraco.dll",
+    "IcoPath":"our.png"
+}
+
